@@ -1,0 +1,25 @@
+MPCIY	Metro Pacific Investments Corporation	17.87	0.00	0.00%	0	9	563.22B	N/A	
+PTBRY	PT Bank Negara Indonesia (Persero) Tbk	16.79	0.00	0.00%	0	14	313.112B	299.82	
+BML-PG	Bank of America Corporation	19.28	-0.10	-0.54%	7,601	12,680	278.567B	7.39	
+BML-PH	Bank of America Corporation	19.02	-0.02	-0.11%	8,978	28,128	280.743B	7.29	
+CICHF	China Construction Bank Corporation	0.8900	+0.0250	+2.89%	66,010	63,988	267.162B	5.74	
+IDCBF	Industrial and Commercial Bank of China Limited	0.7460	0.0000	0.00%	2,000	13,314	265.877B	5.97	
+IDCBY	Industrial and Commercial Bank of China Limited	15.06	+0.32	+2.17%	41,049	41,914	260.835B	6.02	
+CICHY	China Construction Bank Corporation	17.74	+0.25	+1.40%	67,570	94,046	257.275B	5.72	
+PIAIF	Ping An Insurance (Group) Company of China, Ltd.	11.96	+0.26	+2.18%	9,449	10,977	235.288B	13.75	
+PCCYF	PetroChina Company Limited	0.6710	0.0000	0.00%	30	3,096	207.199B	15.25	
+CHLKF	China Mobile Limited	9.91	+0.01	+0.15%	1,814	2,568	205.041B	11.39	
+AVAL	Grupo Aval Acciones Y Valores S.A.	8.34	-0.06	-0.71%	81,683	141,071	185.824B	10.97	
+HBCYF	HSBC Holdings plc	8.42	-0.01	-0.12%	32,285	12,649	169.263B	13.37	
+BACHY	Bank of China Limited	11.91	+0.11	+0.97%	15,066	50,336	168.307B	5.29	
+BACHF	Bank of China Limited	0.4650	-0.0150	-3.12%	10,989	18,268	166.768B	5.17	
+ACGBY	Agricultural Bank of China Limited	11.52	+0.03	+0.22%	3,191	9,815	162.592B	5.06	
+ACGBF	Agricultural Bank of China Limited	0.4567	0.0000	0.00%	1,000	11,557	160.474B	5.02	
+BPAQF	BP p.l.c.	7.37	+0.02	+0.25%	31,961	7,115	151.102B	15.78	
+ALGGY	Alliance Global Group, Inc.	14.72	0.00	0.00%	150	411	148.102B	9.50	
+AAIGF	AIA Group Limited	10.15	+0.08	+0.79%	14,679	31,631	122.157B	41.94	
+CILJF	China Life Insurance Company Limited	2.7700	+0.1100	+4.14%	6,869	11,068	120.116B	20.83	
+CIHHF	China Merchants Bank Co., Ltd.	5.22	+0.22	+4.40%	1,035	2,666	117.127B	11.04	
+LFC	China Life Insurance Company Limited	13.56	+0.19	+1.42%	511,046	534,773	111.244B	20.39	
+IDEXY	Industria de Diseño Textil, S.A.	14.89	-0.10	-0.69%	58,349	167,965	92.397B	22.98	
+PBR	Petróleo Brasileiro S.A. - Petrobras	14.94	-1.53	-9.29%	62.158M	17.372M	92.083B	20.35	
